@@ -70,3 +70,16 @@ The project is built on the following tables:
 1. Clone this repository:
    ```bash
    git clone https://github.com/dhanushprasad2003/E-Commerce_SQL_Analysis.git
+
+---
+
+## 👤 Author
+
+**Dhanush Prasad**  
+[GitHub](https://github.com/dhanushprasad2003)
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
