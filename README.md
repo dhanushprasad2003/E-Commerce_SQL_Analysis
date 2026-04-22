@@ -69,4 +69,4 @@ The project is built on the following tables:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dhanushprasad2003/shopease.git
+   git clone https://github.com/dhanushprasad2003/E-Commerce_SQL_Analysis.git
